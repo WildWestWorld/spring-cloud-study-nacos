@@ -1,0 +1,5 @@
+com\test\service\BookService.class
+com\test\service\impl\BookServiceImpl.class
+com\test\controller\BookController.class
+com\test\mapper\BookMapper.class
+com\test\BookApplication.class

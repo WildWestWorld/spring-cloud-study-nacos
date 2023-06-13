@@ -1,0 +1,7 @@
+com\test\BorrowApplication.class
+com\test\entity\borrow\UserBorrowDetail.class
+com\test\service\impl\BorrowServiceImpl.class
+com\test\controller\BorrowController.class
+com\test\service\BorrowService.class
+com\test\entity\borrow\Borrow.class
+com\test\mapper\BorrowMapper.class

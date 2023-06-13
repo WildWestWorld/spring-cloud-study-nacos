@@ -1,0 +1,11 @@
+#配置端口号
+server:
+  port: 0001
+
+#配置数据库
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.3.66:3306/learn?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: 123456

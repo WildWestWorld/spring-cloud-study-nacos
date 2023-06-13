@@ -1,0 +1,5 @@
+com\test\service\UserService.class
+com\test\mapper\UserMapper.class
+com\test\service\impl\UserServiceImpl.class
+com\test\UserApplication.class
+com\test\controller\UserController.class
